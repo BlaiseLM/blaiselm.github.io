@@ -3,7 +3,7 @@ export const CONFIG = {
   // Site Settings
   // ---------------------------------------------------------------------------
   site: {
-    url: "https://blaiselm.github.io",
+    url: "https://blaise-f5i.pages.dev/",
     locale: "en_US",
     twitterHandle: "@blaiselm",
   },
@@ -32,7 +32,7 @@ export const CONFIG = {
   blog: {
     postsPerPage: 10,
   },
-  
+
   theme: {
     radius: "0.625rem",
 

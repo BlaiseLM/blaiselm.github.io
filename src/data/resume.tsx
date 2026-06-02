@@ -10,7 +10,7 @@ import { Java } from "@/components/ui/svgs/java";
 export const DATA = {
   name: "Blaise Mahamoodally",
   initials: "BM",
-  url: "https://blaiselm.github.io",
+  url: "https://blaise-f5i.pages.dev/",
   location: "Toronto, ON",
   locationLink: "https://www.google.com/maps/place/toronto+ontario",
   description:
